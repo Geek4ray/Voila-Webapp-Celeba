@@ -45,4 +45,5 @@
 ## Steps to Run :
 
 1. Out App is temprorarily deployed in the Jupyter Notebook Itself made using the iPython Widgets, Please Run the following Notebook in Order - https://www.kaggle.com/aryankejriwal4/calaba-modelebapp
-2. No Need to Make a Account on Kaggle, just Run the Notebook from top to bottom and upload uyour favourite face at the last to see what computer thinks about your face!
+2. Click Copy and Edit option, Start the Kernel Session, and Run the Notebook Cells in Top->Down Order.
+3. No Need to Make a Account on Kaggle, just Run the Notebook from top to bottom and upload uyour favourite face at the last to see what computer thinks about your face!
